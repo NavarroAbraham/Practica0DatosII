@@ -15,7 +15,7 @@ public class BubbleSort {
             return;
         }
 
-        int maxWords = 10000;
+        int maxWords = 247047;
 
         List<String> dataList = new ArrayList<>();
 
